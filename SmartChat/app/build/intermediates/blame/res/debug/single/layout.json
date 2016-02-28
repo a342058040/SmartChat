@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leftitem.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\leftitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rightitem.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\rightitem.xml"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\layout\\about.xml"
+    }
+]

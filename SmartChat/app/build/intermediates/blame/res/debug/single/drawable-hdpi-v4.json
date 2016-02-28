@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quit.jpg",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\quit.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tu2.png",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\tu2.png"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tu1.jpg",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\tu1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\robot.jpg",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\robot.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log.png",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\log.png"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\visitor.jpg",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\visitor.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aio_friend_bg_nor_11.9.png",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\aio_friend_bg_nor_11.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_bg.jpg",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\logo_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aio_user_bg_nor_11.9.png",
+        "source": "D:\\Android\\Androidwork\\01\\TulingDemo\\app\\src\\main\\res\\drawable-hdpi\\aio_user_bg_nor_11.9.png"
+    }
+]

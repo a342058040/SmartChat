@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/loginRoot"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical" >
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:background="@drawable/logo_bg"
+		android:orientation="vertical" >
+		<RelativeLayout
+			android:id="@+id/relativelayout2"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="15.0dp"
+			android:layout_marginRight="15.0dp"
+			android:layout_marginTop="62.0dp"
+			android:paddingBottom="10.0dp"
+			android:paddingTop="21.0dp" >
+			<EditText
+				android:id="@+id/login_name"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_alignParentTop="true"
+				android:layout_marginBottom="5.0dip"
+				android:layout_marginLeft="5.0dip"
+				android:layout_marginRight="5.0dip"
+				android:layout_marginTop="5.0dip"
+				android:paddingLeft="45.0sp"
+				android:saveEnabled="true"
+				android:singleLine="true"
+				android:textColor="#ff3f3f3f" />
+			<TextView
+				android:id="@+id/textview01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignBottom="@+id/login_name"
+				android:layout_alignLeft="@+id/login_name"
+				android:layout_alignTop="@+id/login_name"
+				android:layout_marginRight="15.0sp"
+				android:gravity="center_vertical"
+				android:paddingLeft="7.0sp"
+				android:text="用户"
+				android:textColor="#ff3f3f3f"
+				android:textSize="16.0dip" />
+			<EditText
+				android:id="@+id/login_password"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignLeft="@+id/login_name"
+				android:layout_alignRight="@+id/login_name"
+				android:layout_below="@+id/login_name"
+				android:layout_marginRight="1.0dip"
+				android:paddingLeft="45.0sp"
+				android:password="true"
+				android:saveEnabled="true"
+				android:singleLine="true" />
+			<TextView
+				android:id="@+id/textview02"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignBottom="@+id/login_password"
+				android:layout_alignRight="@+id/textview01"
+				android:layout_alignTop="@+id/login_password"
+				android:gravity="center_vertical"
+				android:paddingLeft="7.0sp"
+				android:text="密码"
+				android:textColor="#ff3f3f3f"
+				android:textSize="16.0dip" />
+			<Button
+				android:id="@+id/login_login"
+				android:layout_width="90.0dp"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/textview02"
+				android:layout_marginTop="7.0dp"
+				android:layout_toLeftOf="@+id/login_zhuce"
+				android:text="登陆" />
+			<!--
+                 <Button
+				android:id="@+id/login_zhuce"
+				android:layout_width="90.0dp"
+				android:layout_height="wrap_content"
+				android:layout_alignParentRight="true"
+				android:layout_below="@+id/textview02"
+				android:layout_marginTop="7.0dp"
+				android:text="注册" />
+			-->
+		</RelativeLayout>
+	</LinearLayout>
+</LinearLayout>
